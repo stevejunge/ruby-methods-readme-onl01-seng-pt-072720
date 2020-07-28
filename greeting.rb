@@ -1,1 +1,0 @@
-ruby greeting.rb
